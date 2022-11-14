@@ -1,0 +1,65 @@
+<html>
+<div style="background-color:blue;">
+
+<head >
+<h1 style="color:red; font-size:60px; " align="center" ><u> Cosmo Phones <a name="TOP" style="color:blue">.</a></u></h1>
+
+</head>
+</div>
+<body bgcolor="aquamarine">
+
+
+<hr>
+<p style="font-size:15px" align="center">
+<u><a href="file:///D:/User%20Data/Desktop/Projects/2nd--Now%20Site%20HTML/Project3%20MAIN.html#TOP" style="color:black;"> HOME</a></u> &nbsp &nbsp &nbsp <u><a href="" style="color:black;">HEADPHONES</a></u> &nbsp &nbsp&nbsp <u><a href="" style="color:black;">EARPHONES</a></u>&nbsp&nbsp &nbsp<u><a href="" style="color:black;">AIRPODS</a></u>
+</p>
+<hr>
+<p align="right"><a href="#LAST"  >GO TO LAST</a></p>
+<p align="center">
+<br>
+<br>
+<h1><u>HEADPHONES</u></h1>
+</p>
+<hr size="5" width="70%" color="blue" align="center">
+<br><br><br>
+<table border="5" cellspacing="15" align="center">
+<tr>
+<td background="D:\User Data\Desktop\Projects\2nd--Now Site HTML\Photos\h1.jpg" height="150" width="200"></td>
+<td background="D:\User Data\Desktop\Projects\2nd--Now Site HTML\Photos\h2.jpeg" width="200" height="150"></td>
+<td background="D:\User Data\Desktop\Projects\2nd--Now Site HTML\Photos\h3.jpeg" width="200" height="150"></td>
+<td background="D:\User Data\Desktop\Projects\2nd--Now Site HTML\Photos\h4.jpeg" width="200" height="150"></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.amazon.in/HD70-Headphones-Connection-Technology-Multi-Connection/dp/B08W4L71GG" style="color:red" > Lumiford HD70 </a></td>
+<td align="center"><a color="blue" href="https://www.jiomart.com/p/electronics/sony-mdr-as210-wired-earphone-blue/590040166?source=shoppingads&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiNlRjbshu5bCOKeVeG3wzI8JX4Npxp9-oi2JI1xA5oBPbFbwNDNYesaAtaQEALw_wcB "> Sony MDH-AS210 </a></td>
+<td align="center"><a color="red" href="https://www.flipkart.com/boat-rockerz-370-bluetooth-headset/p/itm89f0396e15fef?pid=ACCFPDSFAZ8DG43U&marketplace=FLIPKART" style="color:red"> boAt Rockerz 370 </a></td>
+<td align="center"><a color="red" href="https://www.flipkart.com/boult-audio-probass-xcharge-fast-charging-bluetooth-headset/p/itm26894519dd3fc?pid=ACCG3HY9ZNDBZDKS&lid=LSTACCG3HY9ZNDBZDKSCOK3CI&marketplace=FLIPKART&store=0pm%2Ffcn&srno=b_1_2&otracker=browse&fm=organic&iid=en_98FV0jvQzBQhyOc8ajN8se92D8BkkXFS2VRRJlgxYUahA%2FyU4YB6fRKEg4stkPqHUjwEcLAjbL78Dt32GFllrA%3D%3D&ppt=browse&ppn=browse&ssid=yqim153vi80000001637082168732" style="color:red"> Boult Audio ProBass</a></td>
+
+</tr>
+</table>
+<br>
+<hr size="6" color="black">
+<br>
+<table border="5" cellspacing="15" align="center">
+<tr>
+<td background="D:\User Data\Desktop\Projects\2nd--Now Site HTML\Photos\h5.jpg" height="150" width="200"></td>
+<td background="D:\User Data\Desktop\Projects\2nd--Now Site HTML\Photos\h6.jpg" width="200" height="150"></td>
+<td background="D:\User Data\Desktop\Projects\2nd--Now Site HTML\Photos\h7.jpg" width="200" height="150"></td>
+<td background="D:\User Data\Desktop\Projects\2nd--Now Site HTML\Photos\h8.jpg" width="200" height="150"></td>
+</tr>
+<tr>
+<td align="center"><a color="red" href="https://www.amazon.in/Boat-Rockerz-550-Headphone-Aesthetics/dp/B0856HY85J/ref=asc_df_B0856HY85J/?tag=googleshopdes-21&linkCode=df0&hvadid=397009849153&hvpos=&hvnetw=g&hvrand=3547676359083251774&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007820&hvtargid=pla-932156227339&ext_vrnc=hi&th=1" style="color:red" > Boat Rockerz 550 </a></td>
+<td align="center"><a color="red" href="https://www.reliancedigital.in/samsung-itfit-bluetooth-earphone-sweat-proof-ipx4-playtime-upto-6-hrs-light-weight-red-black-be7-/p/491895042?gclid=Cj0KCQiAubmPBhCyARIsAJWNpiP9d6lHOkuqclSeungzQHE2mBTwDEveIUZnWPMJ3s1maEXWv8ctbJcaAj1qEALw_wcB" style="color:red" > Samsung ITFIT </a></td>
+<td align="center"><a color="red" href="https://www.amazon.in/Rockerz-261-Wireless-Earphones-Raging/dp/B07KY3G7PZ/ref=asc_df_B07KY3G7PZ/?tag=googleshopdes-21&linkCode=df0&hvadid=397082436122&hvpos=&hvnetw=g&hvrand=16591541958302754811&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007820&hvtargid=pla-785062053113&ext_vrnc=hi&th=1" style="color:red"> Rockerz 261 Wireless </a></td>
+<td align="center"><a color="red" href="https://www.amazon.in/dp/B096FYLJ6M/ref=sspa_dk_detail_2?pd_rd_i=B096FYLJ6M&pd_rd_w=Xz3Y1&pf_rd_p=4e9225d2-7473-4eb0-95d5-670190275218&pd_rd_wg=M5Ujs&pf_rd_r=TN43HZ0KP8J9M2H7PY8W&pd_rd_r=b19fbb04-4222-41bf-8d6a-c91cd75c365e&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFQUkZZNEtOSzRTOUUmZW5jcnlwdGVkSWQ9QTAwMTI5MjVRNFFQWkU5R1dXNFomZW5jcnlwdGVkQWRJZD1BMDI1NTk1MDJPSFRJUllKVUpUNFMmd2lkZ2V0TmFtZT1zcF9kZXRhaWwmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1" style="color:red"> Boult Audio ProBass</a></td>
+
+</tr>
+</table>
+<br>
+
+
+
+<h3><p align="right"><a href="#TOP">GO TO TOP</a></p></h3>
+<a style="color:aquamarine" name="LAST">.</a>
+</body>
+</html>
